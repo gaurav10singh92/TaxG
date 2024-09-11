@@ -5,7 +5,6 @@ import Footer from "./components/footer/footer";
 import Contact from "./components/contact/contact";
 import Feedback from "./components/Feedback/Feedback";
 
-
 import "./App.css";
 
 function App() {
@@ -16,6 +15,7 @@ function App() {
       <Contact />
       <Feedback />
       <Footer />
+      
     </div>
   );
 }
